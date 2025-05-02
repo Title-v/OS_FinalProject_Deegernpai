@@ -12,7 +12,7 @@ Put this command in the terminal:
 streamlit run {filepath}
 
 But of you use vscode make sure that you open the vscode by the anaconda navigation
-and open the folder that have code and copy filepath of the code and execute by this command:
+and open the folder that have code and copy filepath of the code and execute by this command in vscode terminal:
 streamlit run {filepath}
 
 Tutorial(for window)
